@@ -1,0 +1,16 @@
+/* GENERAL */
+h1 {
+  font-size: 41px;
+}
+h2 {
+  font-size: 31px;
+}
+
+/* Left Column */
+#left_col {text-align: center;}
+ul {list-style-type: none; padding: 0px;}
+ul li {display: inline-block; margin: 5px;}
+.chapterheading {text-align: center;}
+.divtitle {text-align: center}
+.big {font-size: 32px;}
+.book_button {width: 90px;}
